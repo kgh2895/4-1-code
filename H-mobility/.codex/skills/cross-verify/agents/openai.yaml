@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cross-Verify"
+  short_description: "Run Gemini/Claude cross-checks"
+  default_prompt: "Use $cross-verify to cross-check this answer or technical judgment."
